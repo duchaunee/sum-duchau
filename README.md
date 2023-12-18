@@ -1,5 +1,3 @@
-# sum-duchau
+# Validate form username/password easy
 
-Một thư viện giúp bạn tính tổng của 2 số bất kỳ
-
-Đơn giản, dễ dùng, cực kỳ nhẹ
+A lib help u validate a form with username/password so easy
