@@ -4,13 +4,43 @@
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
+    "start": "react-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
- "repository": {
+  "repository": {
     "type": "git",
-    "url": "git+https://github.com/duthanhduoc/sum-duthanhduoc"
+    "url": "git+https://github.com/duchaunee/sum-duchau.git"
   },
-  "keywords": ["sum", "add", "tong", "cong"],
-  "author": "Du Thanh Duoc",
-  "license": "MIT"
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "Đức Hậu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duchaunee/sum-duchau/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "web-vitals": "^3.5.0"
+  }
 }
